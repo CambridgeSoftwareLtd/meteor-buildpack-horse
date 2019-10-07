@@ -2,6 +2,8 @@
 
 [![Horse](https://i.imgur.com/YhIL9zM.jpg)](https://commons.wikimedia.org/wiki/File:Draw-Costa_Rican-2smallest.jpg)
 
+# MODIFIED TO ALLOW A WORKER SERVER TO BE SET
+
 A heroku buildpack for Meteor v1+, designed to be as simple and readable as possible.
 
 To use this with your meteor app and heroku:
